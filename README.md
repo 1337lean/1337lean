@@ -18,6 +18,14 @@ infrastructure to privacy-minded products and practical AI systems.
 
 ## Selected work
 
+### [lean.](https://1337lean.github.io) · Personal portfolio
+
+An animated developer portfolio with an editorial visual system, accessible motion, and interactive project stories.
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
+[Source](https://github.com/1337lean/1337lean.github.io) · [Live site](https://1337lean.github.io)
+
 ### [7331.cloud](https://7331.cloud) · Privacy-minded image hosting
 
 Anonymous, short-lived image hosting with metadata removal, high-entropy direct links, and capability-based deletion. A streaming upload pipeline sanitizes every image before publishing it to isolated object storage.
@@ -49,14 +57,6 @@ A modular all-in-one Discord bot—moderation, automod, economy, music, tickets,
 `Python` `discord.py` `SQLite` `OpenAI API`
 
 [Source](https://github.com/1337lean/kevin)
-
-### [lean.](https://1337lean.github.io) · Personal portfolio
-
-An animated developer portfolio with an editorial visual system, accessible motion, and interactive project stories.
-
-`HTML` `CSS` `JavaScript` `GitHub Pages`
-
-[Source](https://github.com/1337lean/1337lean.github.io) · [Live site](https://1337lean.github.io)
 
 ---
 
