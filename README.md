@@ -42,13 +42,13 @@ Fast, focused browser tools for network diagnostics, web checks, IP lookups, and
 
 [Source](https://github.com/1337lean/buffer.lol) · [Live site](https://buffer.lol) · [Docs](https://docs.buffer.lol)
 
-### [System Info Checker](https://github.com/1337lean/info-checker) · Desktop utility
+### [Kevin](https://github.com/1337lean/kevin) · Discord & Telegram bot
 
-A safe, read-only desktop app for inspecting system, hardware, network, and runtime details across Windows, macOS, and Linux.
+A modular all-in-one Discord bot—moderation, automod, economy, music, tickets, and live alerts—plus a Telegram companion that answers questions with web-backed sources.
 
-`Python` `PySide6` `Cross-platform`
+`Python` `discord.py` `SQLite` `OpenAI API`
 
-[Source](https://github.com/1337lean/info-checker)
+[Source](https://github.com/1337lean/kevin)
 
 ### [lean.](https://1337lean.github.io) · Personal portfolio
 
