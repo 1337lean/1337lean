@@ -18,6 +18,14 @@ infrastructure to privacy-minded products and practical AI systems.
 
 ## Selected work
 
+### [lean.](https://1337lean.github.io) · Personal portfolio
+
+An animated developer portfolio with an editorial visual system, accessible motion, and interactive project stories.
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
+[Source](https://github.com/1337lean/1337lean.github.io) · [Live site](https://1337lean.github.io)
+
 ### [Envguard](https://github.com/1337lean/envguard) · Safe dotenv contract validation
 
 A dependency-free CLI that catches configuration drift without exposing secret values. It compares environment files with safe templates, validates typed constraints, and produces stable diagnostics for local development and CI.
@@ -49,14 +57,6 @@ A dependency-free CLI for validating release bundles at CI and deployment bounda
 `Go` `Supply chain security` `SBOM` `Provenance` `SARIF`
 
 [Source](https://github.com/1337lean/gatehouse) · [Releases](https://github.com/1337lean/gatehouse/releases)
-
-### [lean.](https://1337lean.github.io) · Personal portfolio
-
-An animated developer portfolio with an editorial visual system, accessible motion, and interactive project stories.
-
-`HTML` `CSS` `JavaScript` `GitHub Pages`
-
-[Source](https://github.com/1337lean/1337lean.github.io) · [Live site](https://1337lean.github.io)
 
 ### [7331.cloud](https://7331.cloud) · Privacy-minded image hosting
 
