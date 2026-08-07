@@ -18,6 +18,38 @@ infrastructure to privacy-minded products and practical AI systems.
 
 ## Selected work
 
+### [Envguard](https://github.com/1337lean/envguard) · Safe dotenv contract validation
+
+A dependency-free CLI that catches configuration drift without exposing secret values. It compares environment files with safe templates, validates typed constraints, and produces stable diagnostics for local development and CI.
+
+`Go` `dotenv` `Configuration validation` `DevSecOps` `GitHub Actions`
+
+[Source](https://github.com/1337lean/envguard) · [Releases](https://github.com/1337lean/envguard/releases)
+
+### [Certpulse](https://github.com/1337lean/certpulse) · Batch TLS monitoring
+
+A single-binary CLI for checking certificate trust, hostname binding, expiration windows, protocol versions, and OCSP status across many endpoints. Output is available for humans, JSON consumers, and Prometheus monitoring.
+
+`Go` `TLS` `OCSP` `Prometheus` `Cross-platform`
+
+[Source](https://github.com/1337lean/certpulse) · [Releases](https://github.com/1337lean/certpulse/releases)
+
+### [Relaybox](https://github.com/1337lean/relaybox) · Durable webhook inbox
+
+A standard-library-only webhook service that durably captures requests, verifies GitHub signatures, suppresses duplicates, retries forwarding, and provides an authenticated browser inspector. Built with secure defaults for local use and self-hosting.
+
+`Go` `Webhooks` `HMAC` `Docker` `GitHub Actions`
+
+[Source](https://github.com/1337lean/relaybox) · [Releases](https://github.com/1337lean/relaybox/releases)
+
+### [Gatehouse](https://github.com/1337lean/gatehouse) · Release supply-chain policy gate
+
+A dependency-free CLI for validating release bundles at CI and deployment boundaries. It checks versioned policies, checksums, file constraints, SBOM structure, and provenance bindings before artifacts ship.
+
+`Go` `Supply chain security` `SBOM` `Provenance` `SARIF`
+
+[Source](https://github.com/1337lean/gatehouse) · [Releases](https://github.com/1337lean/gatehouse/releases)
+
 ### [lean.](https://1337lean.github.io) · Personal portfolio
 
 An animated developer portfolio with an editorial visual system, accessible motion, and interactive project stories.
