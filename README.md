@@ -4,8 +4,8 @@
 
 ### Developer & builder creating useful things for the open web.
 
-I turn fuzzy ideas into direct, dependable software—from developer tools and<br>
-infrastructure to privacy-minded products and practical AI systems.
+I turn ideas into software people can actually use—developer tools,<br>
+privacy-minded infrastructure, and native apps.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://1337lean.github.io)
 [![7331.cloud](https://img.shields.io/badge/7331.cloud-171026?style=for-the-badge&logo=cloudflare&logoColor=F48120)](https://7331.cloud)
