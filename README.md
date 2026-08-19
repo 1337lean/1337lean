@@ -12,9 +12,6 @@ privacy-minded infrastructure, and native apps.
 [![7331.cloud](https://img.shields.io/badge/7331.cloud-171026?style=for-the-badge&logo=cloudflare&logoColor=F48120)](https://7331.cloud)
 [![7331 CLI](https://img.shields.io/badge/7331_CLI-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/1337lean/7331-cli)
 
-[![GitHub](https://img.shields.io/badge/GitHub-171026?style=flat-square&logo=github&logoColor=white)](https://github.com/1337lean)
-[![Followers](https://img.shields.io/github/followers/1337lean?style=flat-square&logo=github&label=Followers&labelColor=171026&color=7C3AED)](https://github.com/1337lean?tab=followers)
-[![Stars](https://img.shields.io/github/stars/1337lean?style=flat-square&logo=github&label=Stars&labelColor=171026&color=8B5CF6)](https://github.com/1337lean?tab=repositories&q=&type=source&sort=stargazers)
 
 </div>
 
