@@ -10,9 +10,7 @@ I turn ideas into software people actually use — developer tools, privacy-mind
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1337lean.github.io-09090b?style=flat-square&logo=safari&logoColor=white)](https://1337lean.github.io)
 [![Portal](https://img.shields.io/badge/Portal-portalchat.org-09090b?style=flat-square&logo=react&logoColor=61DAFB)](https://portalchat.org)
-[![buffer.lol](https://img.shields.io/badge/buffer.lol-tools-09090b?style=flat-square&logo=nextdotjs&logoColor=white)](https://buffer.lol)
-[![7331.cloud](https://img.shields.io/badge/7331.cloud-hosting-09090b?style=flat-square&logo=cloudflare&logoColor=F48120)](https://7331.cloud)
-[![Neon Tether](https://img.shields.io/badge/Neon_Tether-iOS_Game-09090b?style=flat-square&logo=apple&logoColor=white)](https://github.com/1337lean/neon-tether)
+[![GitHub](https://img.shields.io/badge/GitHub-@1337lean-09090b?style=flat-square&logo=github&logoColor=white)](https://github.com/1337lean)
 [![Contact](https://img.shields.io/badge/Contact-hi%407331.lol-09090b?style=flat-square&logo=minutemailer&logoColor=white)](mailto:hi@7331.lol)
 
 </div>
@@ -28,25 +26,23 @@ Frontend web application for a passkey-first encrypted messenger featuring direc
 - **Stack:** `React` `TypeScript` `Tailwind CSS` `Vite`
 - **Links:** [Live site](https://portalchat.org)
 
-### [buffer.lol](https://buffer.lol) · Diagnostic utility & developer toolbox
+### [buffer.lol](https://github.com/1337lean/buffer.lol) · Diagnostic utility & developer toolbox
 A minimal, fast toolbox for network diagnostics, web checks, IP lookups, and everyday developer tasks — searchable, lightweight, and clear about what executes locally in your browser.
 - **Stack:** `Next.js` `TypeScript` `Network APIs`
-- **Links:** [Live site](https://buffer.lol) · [Source](https://github.com/1337lean/buffer.lol)
+- **Links:** [Source](https://github.com/1337lean/buffer.lol)
 
-### [7331.cloud](https://7331.cloud) · Anonymous temporary image hosting
+### [7331.cloud](https://github.com/1337lean/7331-cli) · Anonymous temporary image hosting
 Anonymous image hosting engineered for rapid uploads, clean direct links, and short retention periods — paired with a standalone cross-platform terminal CLI in Go.
 - **Stack:** `Next.js` `TypeScript` `Go` `Docker`
-- **Links:** [Live site](https://7331.cloud) · [CLI Releases](https://github.com/1337lean/7331-cli/releases/latest) · [CLI Source](https://github.com/1337lean/7331-cli)
+- **Links:** [CLI Releases](https://github.com/1337lean/7331-cli/releases/latest) · [Source](https://github.com/1337lean/7331-cli)
 
-### [Neon Tether](https://github.com/1337lean/neon-tether) · Native orbital score-chaser for iPhone
+### Neon Tether · Native orbital score-chaser for iPhone
 A one-thumb orbital physics game for iOS. Bend gravity around planetary cores, thread minefields, and trigger Overdrive across endless runs and daily challenges — strictly local, with zero ads or tracking.
 - **Stack:** `SwiftUI` `SpriteKit` `iOS 17+`
-- **Links:** [Source](https://github.com/1337lean/neon-tether) · [neontether.com](https://neontether.com)
 
-### [IP Lens](https://buffer.lol/ip-lens) · Native iPhone IP intelligence toolkit
+### IP Lens · Native iPhone IP intelligence toolkit
 A privacy-first native iPhone toolkit for IP intelligence, ASN & RDAP registration, offline subnet calculations, batch analysis, saved queries, and private local data exports.
 - **Stack:** `SwiftUI` `SwiftData` `iOS 17+`
-- **Links:** [Learn more](https://buffer.lol/ip-lens)
 
 ---
 
