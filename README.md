@@ -1,137 +1,126 @@
 <div align="center">
 
-# lean.
+# `l/` lean
 
-### Developer & builder creating useful things for the open web.
+### I make practical software for the web and iPhone.
 
-I turn ideas into software people can actually use—developer tools,<br>
-privacy-minded infrastructure, and native apps.
+I turn ideas into software people actually use — developer tools, privacy-minded infrastructure, and native apps.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://1337lean.github.io)
-[![buffer.lol](https://img.shields.io/badge/buffer.lol-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://buffer.lol)
-[![7331.cloud](https://img.shields.io/badge/7331.cloud-171026?style=for-the-badge&logo=cloudflare&logoColor=F48120)](https://7331.cloud)
-[![7331 CLI](https://img.shields.io/badge/7331_CLI-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/1337lean/7331-cli)
+<br>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1337lean.github.io-09090b?style=flat-square&logo=safari&logoColor=white)](https://1337lean.github.io)
+[![Portal](https://img.shields.io/badge/Portal-portalchat.org-09090b?style=flat-square&logo=react&logoColor=61DAFB)](https://portalchat.org)
+[![buffer.lol](https://img.shields.io/badge/buffer.lol-tools-09090b?style=flat-square&logo=nextdotjs&logoColor=white)](https://buffer.lol)
+[![7331.cloud](https://img.shields.io/badge/7331.cloud-hosting-09090b?style=flat-square&logo=cloudflare&logoColor=F48120)](https://7331.cloud)
+[![Neon Tether](https://img.shields.io/badge/Neon_Tether-iOS_Game-09090b?style=flat-square&logo=apple&logoColor=white)](https://github.com/1337lean/neon-tether)
+[![Contact](https://img.shields.io/badge/Contact-hi%407331.lol-09090b?style=flat-square&logo=minutemailer&logoColor=white)](mailto:hi@7331.lol)
 
 </div>
 
 ---
 
-## Selected work
+## ✦ Featured Products
 
-### [lean.](https://1337lean.github.io) · Personal portfolio
+Web platforms, privacy-focused utilities, and native iOS applications.
 
-An animated developer portfolio with an editorial visual system, accessible motion, and interactive project stories.
+### [Portal](https://portalchat.org) · Passkey-first encrypted messenger
+Frontend web application for a passkey-first encrypted messenger featuring direct chats, group messaging, media sharing, and real-time audio and video calls.
+- **Stack:** `React` `TypeScript` `Tailwind CSS` `Vite`
+- **Links:** [Live site](https://portalchat.org)
 
-`HTML` `CSS` `JavaScript` `GitHub Pages`
+### [buffer.lol](https://buffer.lol) · Diagnostic utility & developer toolbox
+A minimal, fast toolbox for network diagnostics, web checks, IP lookups, and everyday developer tasks — searchable, lightweight, and clear about what executes locally in your browser.
+- **Stack:** `Next.js` `TypeScript` `Network APIs`
+- **Links:** [Live site](https://buffer.lol) · [Source](https://github.com/1337lean/buffer.lol)
 
-[Source](https://github.com/1337lean/1337lean.github.io) · [Live site](https://1337lean.github.io)
+### [7331.cloud](https://7331.cloud) · Anonymous temporary image hosting
+Anonymous image hosting engineered for rapid uploads, clean direct links, and short retention periods — paired with a standalone cross-platform terminal CLI in Go.
+- **Stack:** `Next.js` `TypeScript` `Go` `Docker`
+- **Links:** [Live site](https://7331.cloud) · [CLI Releases](https://github.com/1337lean/7331-cli/releases/latest) · [CLI Source](https://github.com/1337lean/7331-cli)
 
-### [buffer.lol](https://buffer.lol) · Open-web utility
+### [Neon Tether](https://github.com/1337lean/neon-tether) · Native orbital score-chaser for iPhone
+A one-thumb orbital physics game for iOS. Bend gravity around planetary cores, thread minefields, and trigger Overdrive across endless runs and daily challenges — strictly local, with zero ads or tracking.
+- **Stack:** `SwiftUI` `SpriteKit` `iOS 17+`
+- **Links:** [Source](https://github.com/1337lean/neon-tether) · [neontether.com](https://neontether.com)
 
-Fast, focused browser tools for network diagnostics, web checks, IP lookups, and everyday developer tasks. Local-first where possible, with hardened APIs for live network operations.
+### [IP Lens](https://buffer.lol/ip-lens) · Native iPhone IP intelligence toolkit
+A privacy-first native iPhone toolkit for IP intelligence, ASN & RDAP registration, offline subnet calculations, batch analysis, saved queries, and private local data exports.
+- **Stack:** `SwiftUI` `SwiftData` `iOS 17+`
+- **Links:** [Learn more](https://buffer.lol/ip-lens)
 
-`Next.js` `React` `TypeScript` `Node.js` `Network APIs`
+---
 
-[Source](https://github.com/1337lean/buffer.lol) · [Live site](https://buffer.lol) · [Docs](https://docs.buffer.lol)
+## 🛠️ Developer Tools & Infrastructure
 
-### [7331.cloud](https://7331.cloud) · Privacy-minded image hosting
+Single-binary CLI tools, webhook daemons, policy gates, and bots.
 
-Anonymous, short-lived image hosting with metadata removal, high-entropy direct links, and capability-based deletion. A streaming upload pipeline sanitizes every image before publishing it to isolated object storage.
+### [Envguard](https://github.com/1337lean/envguard) · Go dotenv contract CLI
+Dependency-free CLI that catches dotenv configuration drift before deployment with safe templates and typed schema validation — without printing secret values.
+- **Stack:** `Go` `CLI` `DevSecOps`
+- **Links:** [Source](https://github.com/1337lean/envguard) · [Latest release](https://github.com/1337lean/envguard/releases/latest)
 
-`Next.js` `TypeScript` `Fastify` `Cloudflare R2` `Docker`
+### [Certpulse](https://github.com/1337lean/certpulse) · Batch TLS monitoring CLI
+Single-binary CLI for batch TLS certificate, cipher suite, and protocol checks, featuring trust verification, expiration notices, OCSP stapling, and Prometheus support.
+- **Stack:** `Go` `TLS` `OCSP` `Prometheus`
+- **Links:** [Source](https://github.com/1337lean/certpulse) · [Latest release](https://github.com/1337lean/certpulse/releases/latest)
 
-[Live site](https://7331.cloud)
-
-### [7331 CLI](https://github.com/1337lean/7331-cli) · Cross-platform developer tool
-
-A dependency-free Go client for uploading, inspecting, and deleting images on 7331.cloud. Built for both humans and scripts, with batch uploads, structured JSON output, and secure local deletion credentials.
-
-`Go` `Cross-platform` `GitHub Actions` `Homebrew` `Scoop`
-
-[Source](https://github.com/1337lean/7331-cli) · [Releases](https://github.com/1337lean/7331-cli/releases)
-
-### [Envguard](https://github.com/1337lean/envguard) · Safe dotenv contract validation
-
-A dependency-free CLI that catches configuration drift without exposing secret values. It compares environment files with safe templates, validates typed constraints, and produces stable diagnostics for local development and CI.
-
-`Go` `dotenv` `Configuration validation` `DevSecOps` `GitHub Actions`
-
-[Source](https://github.com/1337lean/envguard) · [Releases](https://github.com/1337lean/envguard/releases)
-
-### [Certpulse](https://github.com/1337lean/certpulse) · Batch TLS monitoring
-
-A single-binary CLI for checking certificate trust, hostname binding, expiration windows, protocol versions, and OCSP status across many endpoints. Output is available for humans, JSON consumers, and Prometheus monitoring.
-
-`Go` `TLS` `OCSP` `Prometheus` `Cross-platform`
-
-[Source](https://github.com/1337lean/certpulse) · [Releases](https://github.com/1337lean/certpulse/releases)
-
-### [Relaybox](https://github.com/1337lean/relaybox) · Durable webhook inbox
-
-A standard-library-only webhook service that durably captures requests, verifies GitHub signatures, suppresses duplicates, retries forwarding, and provides an authenticated browser inspector. Built with secure defaults for local use and self-hosting.
-
-`Go` `Webhooks` `HMAC` `Docker` `GitHub Actions`
-
-[Source](https://github.com/1337lean/relaybox) · [Releases](https://github.com/1337lean/relaybox/releases)
+### [Relaybox](https://github.com/1337lean/relaybox) · Durable webhook inbox daemon
+Durable webhook collector that verifies HMAC signatures, suppresses duplicates, handles reliable retry forwarding, and provides an authenticated live browser inspector.
+- **Stack:** `Go` `Webhooks` `HMAC` `Docker`
+- **Links:** [Source](https://github.com/1337lean/relaybox) · [Latest release](https://github.com/1337lean/relaybox/releases/latest)
 
 ### [Gatehouse](https://github.com/1337lean/gatehouse) · Release supply-chain policy gate
-
-A dependency-free CLI for validating release bundles at CI and deployment boundaries. It checks versioned policies, checksums, file constraints, SBOM structure, and provenance bindings before artifacts ship.
-
-`Go` `Supply chain security` `SBOM` `Provenance` `SARIF`
-
-[Source](https://github.com/1337lean/gatehouse) · [Releases](https://github.com/1337lean/gatehouse/releases)
+Dependency-free policy gate for release bundles that enforces file constraints, checksum validations, SBOM structural integrity, and provenance at deployment boundaries.
+- **Stack:** `Go` `CI/CD` `SBOM` `Security`
+- **Links:** [Source](https://github.com/1337lean/gatehouse) · [Latest release](https://github.com/1337lean/gatehouse/releases/latest)
 
 ### [Kevin](https://github.com/1337lean/kevin) · Discord & Telegram bot
-
-A modular all-in-one Discord bot—moderation, automod, economy, music, tickets, and live alerts—plus a Telegram companion that answers questions with web-backed sources.
-
-`Python` `discord.py` `SQLite` `OpenAI API`
-
-[Source](https://github.com/1337lean/kevin)
+A modular Discord bot covering moderation, economy, ticket management, and automod, plus a companion Telegram assistant that answers inquiries with web-backed citations.
+- **Stack:** `Python` `discord.py` `SQLite` `OpenAI API`
+- **Links:** [Source](https://github.com/1337lean/kevin)
 
 ---
 
-## Current toolkit
+## 📐 About & Approach
+
+> *My work sits where product thinking meets robust systems engineering. I build web utilities, native iPhone applications, and security-minded infrastructure. I care deeply about speed, low resource footprints, and the quiet details that make software dependable long after the demo.*
+
+- **Terminal & Systems:** Dependency-free Go CLIs and single-binary tools with minimal attack surfaces.
+- **Native iOS:** Local-first SwiftUI & SpriteKit apps designed for responsiveness, zero tracking, and offline privacy.
+- **Open Web:** Fast, accessible, and standards-compliant web platforms built with React, Next.js, and TypeScript.
+
+---
+
+## 🧰 Toolkit & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-171026?style=flat-square&logo=typescript&logoColor=8B5CF6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-171026?style=flat-square&logo=react&logoColor=8B5CF6" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-171026?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-171026?style=flat-square&logo=nodedotjs&logoColor=8B5CF6" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-171026?style=flat-square&logo=python&logoColor=8B5CF6" alt="Python">
-  <img src="https://img.shields.io/badge/Go-171026?style=flat-square&logo=go&logoColor=00ADD8" alt="Go">
-  <img src="https://img.shields.io/badge/PostgreSQL-171026?style=flat-square&logo=postgresql&logoColor=8B5CF6" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-171026?style=flat-square&logo=docker&logoColor=8B5CF6" alt="Docker">
-  <img src="https://img.shields.io/badge/Cloudflare-171026?style=flat-square&logo=cloudflare&logoColor=F48120" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/LLM_APIs-171026?style=flat-square&logo=openai&logoColor=8B5CF6" alt="LLM APIs">
-  <img src="https://img.shields.io/badge/Fastify-171026?style=flat-square&logo=fastify&logoColor=8B5CF6" alt="Fastify">
-  <img src="https://img.shields.io/badge/SQLite-171026?style=flat-square&logo=sqlite&logoColor=8B5CF6" alt="SQLite">
-  <img src="https://img.shields.io/badge/GitHub_Actions-171026?style=flat-square&logo=githubactions&logoColor=8B5CF6" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Vercel-171026?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/SwiftUI-09090b?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-09090b?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-09090b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Go-09090b?style=flat-square&logo=go&logoColor=00ADD8" alt="Go">
+  <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-09090b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-09090b?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-09090b?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
+  <img src="https://img.shields.io/badge/Docker-09090b?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Cloudflare-09090b?style=flat-square&logo=cloudflare&logoColor=F48120" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-09090b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
 </p>
 
-I care about clear interfaces, safe defaults, thoughtful infrastructure, and the small details that make software feel considered.
-
----
-
-## In numbers
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=1337lean&hide_border=true&background=171026&stroke=2E1065&ring=8B5CF6&fire=F48120&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=8B5CF6&sideLabels=A78BFA&dates=6B7280" alt="Contribution streak">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1337lean&hide_border=true&bg_color=171026&color=E5E7EB&title_color=8B5CF6&line=8B5CF6&point=F48120&area=true&area_color=2E1065" alt="Contribution activity">
-
-</div>
+- **Interfaces & Native:** SwiftUI · SpriteKit · TypeScript · React · Next.js · Tailwind CSS
+- **Systems & Backends:** Go · Python · Node.js · SQLite · PostgreSQL · FastAPI · Fastify
+- **Infrastructure & Security:** Docker · Linux · TLS / OCSP · HMAC · Webhooks · CI/CD
+- **Specializations:** Dotenv Contracts · Local Diagnostics · Network Tooling · Native iOS
 
 ---
 
 <div align="center">
 
-**Always exploring the space between “What if?” and “It works.”**
+### Get in touch
 
-[Explore my work](https://1337lean.github.io/#work)
+Available for conversations, project inquiries, or open-source collaboration.
+
+[**Portfolio**](https://1337lean.github.io) &nbsp;·&nbsp; [**hi@7331.lol**](mailto:hi@7331.lol) &nbsp;·&nbsp; [**@1337lean on GitHub**](https://github.com/1337lean)
 
 </div>
